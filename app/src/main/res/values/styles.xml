@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="PuzzleTitleStyleFill">
+        <item name="fontFamily">@font/batm_fill</item>
+    </style>
+    <style name="PuzzleTitleStyleEmpty">
+        <item name="fontFamily">@font/batmfo_empty</item>
+    </style>
+
+    <style name="button_3_3_style" parent="PuzzleTitleStyleFill">
+        <item name="android:layout_width">90dp</item>
+        <item name="android:layout_height">90dp</item>
+        <item name="android:background">@drawable/oyin_doskasi</item>
+        <item name="android:textColor">#A15739</item>
+        <item name="android:textSize">28sp</item>
+    </style>
+
+    <style name="button_5_5_style" parent="PuzzleTitleStyleFill">
+        <item name="android:layout_width">55dp</item>
+        <item name="android:layout_height">55dp</item>
+        <item name="android:background">@drawable/oyin_doskasi</item>
+        <item name="android:textColor">#A15739</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+
+    <style name="button_6_6_style" parent="PuzzleTitleStyleFill">
+        <item name="android:layout_width">50dp</item>
+        <item name="android:layout_height">50dp</item>
+        <item name="android:background">@drawable/oyin_doskasi</item>
+        <item name="android:textColor">#A15739</item>
+        <item name="android:textSize">20sp</item>
+    </style>
+
+</resources>
